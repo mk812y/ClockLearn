@@ -33,3 +33,5 @@ struct ContentView: View {
 //HH:31 - HH:44 = (it's) MM to/of HH + 1
 //HH:45 = (it's) a quarter to/of HH + 1
 //HH:46 - HH:59 = (it's) MM to/of HH + 1
+
+//идея есть, понимания нет, идем базу проходить 
